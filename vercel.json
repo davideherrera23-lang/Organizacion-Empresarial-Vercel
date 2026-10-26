@@ -1,12 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/Fundaci%C3%B3n%20Un%20D%C3%ADa%20a%20la%20Vez%20%C2%B7%20Alcoh%C3%B3licos%20An%C3%B3nimos.html"
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
